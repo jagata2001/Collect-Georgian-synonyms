@@ -1,0 +1,1 @@
+# Collect-Georgian-synonyms
